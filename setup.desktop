@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Set up underscore.pnp
+Comment=Install or update underscore.pnp
+Exec=bash -c "exec bash \"\\$(dirname \"\\$1\")/setup.sh\" --desktop" setup %k
+Terminal=true
+Categories=AudioVideo;Audio;
