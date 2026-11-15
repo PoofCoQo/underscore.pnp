@@ -459,6 +459,14 @@ When reporting a problem, including relevant diagnostic information makes it muc
 
 ---
 
+## Example Files
+
+This project uses third-party music by Kevin MacLeod (incompetech.com), licensed under Creative Commons Attribution 4.0.
+
+For detailed attribution and licensing information, see THIRD_PARTY_LICENSES.md.
+
+---
+
 ## About PoofCoQo
 
 **Product Owner Of Flawed Code Of Questionable Origin**
