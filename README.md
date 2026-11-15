@@ -102,6 +102,8 @@ If you move the project directory, run `bash setup.sh --install-launcher` again 
 
 ## Setting up your music library
 
+<img width="1920" height="1080" alt="Setup Screen" src="https://github.com/user-attachments/assets/6018fe7d-fe54-4b0a-9bae-28fb204dfd97" />
+
 Before you can provide a dramatic soundtrack to your players' questionable decisions, you'll need some music.
 
 ### Step 1 — Add your audio files
@@ -180,6 +182,8 @@ You'll then find its card under **PLAYER**, ready for its moment of questionable
 ---
 
 ## Running a session
+
+<img width="1920" height="1080" alt="Player Screen" src="https://github.com/user-attachments/assets/e60dd76f-4181-482d-8e85-9eaf8ed711a1" />
 
 This is where underscore.pnp is supposed to make your life easier.
 
