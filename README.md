@@ -20,8 +20,6 @@ No streaming service required. No unexpected playlist recommendations. Just your
 - Discord playback is available if your table happens to be somewhere else.
 - Loop configurations can be exported and shared without distributing copyrighted audio.
 
-This README covers installation and everyday use. If you're interested in what happens behind the scenes, the [technical documentation](TECHNICAL.md) has you covered. Currently in German, because apparently the code wasn't complicated enough.
-
 ---
 
 ## Installation
